@@ -13,7 +13,7 @@ Langkah - Langkah
    kita bisa menambahkan inline style dengan cara menambahkan "styles" dalam tag 'p'
    ![image](https://github.com/user-attachments/assets/d33d49ce-b54d-4c4f-9f95-534fd122922c)
 
-4. Menambahkan CSS internal
+4. Menambahkan CSS eksternal
    kita harus menambahkan perintah 'link' pada bagian Head agar file HTML kita terkoneksi dengan CSS eksternal kita
    ![image](https://github.com/user-attachments/assets/71cc450c-7616-46e8-8c03-910df17a89af)
 
