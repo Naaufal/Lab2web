@@ -38,11 +38,11 @@ Saya akan menjelaskan :
          Dalam contoh di atas, teks akan berwarna MERAH dan ukuran font 14px, mengikuti style dari ID selector
          Ini karena ID bersifat unik dan lebih spesifik dibandingkan Class
      	
-Secara umum, urutan prioritas CSS (specificity) dari tinggi ke rendah adalah:
-   1.	Inline styles
-   2.	ID selectors
-   3.	Class selectors, attributes selectors, dan pseudo-classes
-   4.	Element selectors dan pseudo-elements
+   Secara umum, urutan prioritas CSS (specificity) dari tinggi ke rendah adalah:
+      1.	Inline styles
+      2.	ID selectors
+      3.	Class selectors, attributes selectors, dan pseudo-classes
+      4.	Element selectors dan pseudo-elements
 
 
 
