@@ -39,10 +39,10 @@ Saya akan menjelaskan :
          Ini karena ID bersifat unik dan lebih spesifik dibandingkan Class
      	
    Secara umum, urutan prioritas CSS (specificity) dari tinggi ke rendah adalah:
-      1.	Inline styles
-      2.	ID selectors
-      3.	Class selectors, attributes selectors, dan pseudo-classes
-      4.	Element selectors dan pseudo-elements
+   1.	Inline styles
+   2.	ID selectors
+   3.	Class selectors, attributes selectors, dan pseudo-classes
+   4.	Element selectors dan pseudo-elements
 
 
 
