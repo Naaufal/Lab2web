@@ -26,18 +26,23 @@ Langkah - Langkah
 
 Saya akan menjelaskan :
 1.	Perbedaan antara h1 {...} dan #intro h1 {...}
+   
    •	h1 {...} adalah selector elemen yang akan mempengaruhi SEMUA elemen h1 di halaman web
    •	#intro h1 {...} adalah selector yang lebih spesifik, hanya mempengaruhi elemen h1 yang berada di dalam elemen dengan id "intro"
-2.	Prioritas antara Internal CSS, External CSS, dan Inline CSS
+   
+3.	Prioritas antara Internal CSS, External CSS, dan Inline CSS
 prioritas CSS dari tertinggi ke terendah:
-   1.	Inline CSS
+   1. Inline CSS
    2.	Internal CSS
    3.	External CSS
+      
 Dalam contoh di atas, teks akan berwarna MERAH karena inline CSS memiliki prioritas tertinggi, meskipun ada deklarasi warna berbeda di internal dan external CSS.
 3.	Prioritas antara ID dan Class Selector
+   
    •	ID selector (#paragraf-1) memiliki prioritas lebih tinggi dibandingkan Class selector (.text-paragraf)
    •	Dalam contoh di atas, teks akan berwarna MERAH dan ukuran font 14px, mengikuti style dari ID selector
    •	Ini karena ID bersifat unik dan lebih spesifik dibandingkan Class
+   
 Secara umum, urutan prioritas CSS (specificity) dari tinggi ke rendah adalah:
    1.	Inline styles
    2.	ID selectors
